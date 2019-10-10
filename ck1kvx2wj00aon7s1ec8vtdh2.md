@@ -13,3 +13,5 @@ Despite how I find writing in Vim therapeutic, there's definitely more steps inv
 Nevertheless, I do think there's value in having a self-hosted blog, but I can still have that with self-hosted  [Ghost](https://ghost.org)  or Wordpress. Or I could use a headless CMS like  [Forestry](https://forestry.io)  or Contentful and continue having a statically-generated site. Perhaps I'll give those options a try someday.
 
 In the meantime, I just wanted to try out this new site I came across.
+
+PS. Seems like it's not possible to publish a post without tagging it. I guess that's my first complaint.
