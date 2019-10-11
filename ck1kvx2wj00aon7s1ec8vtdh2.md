@@ -14,4 +14,4 @@ Nevertheless, I do think there's value in having a self-hosted blog, but I can s
 
 In the meantime, I just wanted to try out this new site I came across.
 
-PS. Seems like it's not possible to publish a post without tagging it. I guess that's my first complaint.
+PS. ~~Seems like it's not possible to publish a post without tagging it. I guess that's my first complaint.~~ Apparently this has been fixed. 
